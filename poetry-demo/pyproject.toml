@@ -9,6 +9,10 @@ python = "^3.9"
 fastapi = "^0.70.0"
 SQLAlchemy = "^1.4.27"
 uvicorn = "^0.15.0"
+python-dotenv = "^0.19.2"
+mysql-connector-python = "^8.0.27"
+python-decouple = "^3.5"
+psycopg2 = "^2.9.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
